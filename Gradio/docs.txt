@@ -1,0 +1,14 @@
+# Quickstart
+https://www.gradio.app/guides/quickstart
+
+# Basic Example
+https://www.gradio.app/guides/the-interface-class
+
+# Components
+https://www.gradio.app/docs/gradio/audio
+
+# Template
+https://www.gradio.app/custom-components/gallery
+
+# Crash Course
+https://www.youtube.com/watch?v=eE7CamOE-PA&t=713s&ab_channel=AssemblyAI
